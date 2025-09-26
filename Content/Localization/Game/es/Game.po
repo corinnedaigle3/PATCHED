@@ -1,0 +1,295 @@
+﻿# Game Spanish translation.
+# Fill out your copyright notice in the Description page of Project Settings.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2025-09-26 01:16\n"
+"PO-Revision-Date: 2025-09-26 01:16\n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	03B281DC4A175CD72FEE23A8886A7B84
+#. SourceLocation:	/Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.Audio.Text
+#: /Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.Audio.Text
+msgctxt ",03B281DC4A175CD72FEE23A8886A7B84"
+msgid "Audio"
+msgstr "1"
+
+#. Key:	FCE99A7D497275F8125909B446D78F67
+#. SourceLocation:	/Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.Credit.Text
+#: /Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.Credit.Text
+msgctxt ",FCE99A7D497275F8125909B446D78F67"
+msgid "Credits"
+msgstr "1"
+
+#. Key:	65A9B230406918C8B1ABEE9E572BCB1F
+#. SourceLocation:	/Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.Load.Text
+#: /Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.Load.Text
+msgctxt ",65A9B230406918C8B1ABEE9E572BCB1F"
+msgid "Load"
+msgstr "1"
+
+#. Key:	A5910E4240039DEBE6447FB0C008ED68
+#. SourceLocation:	/Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.SettingText.Text
+#: /Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.SettingText.Text
+msgctxt ",A5910E4240039DEBE6447FB0C008ED68"
+msgid "Settings"
+msgstr "1"
+
+#. Key:	14169CB44F322726017F7D89892D8011
+#. SourceLocation:	/Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.SettingText_1.Text
+#: /Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.SettingText_1.Text
+msgctxt ",14169CB44F322726017F7D89892D8011"
+msgid "Credits"
+msgstr "1"
+
+#. Key:	1C0467914A51F5866B78B18DDAE4E4BB
+#. SourceLocation:	/Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.Text.Text
+#: /Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.Text.Text
+msgctxt ",1C0467914A51F5866B78B18DDAE4E4BB"
+msgid "Start"
+msgstr "1"
+
+#. Key:	6F9D84C34C0A0FF7089C3CB04AB9CD78
+#. SourceLocation:	/Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_1.Text
+#: /Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_1.Text
+msgctxt ",6F9D84C34C0A0FF7089C3CB04AB9CD78"
+msgid "Settings"
+msgstr "1"
+
+#. Key:	9BDFEE1B40B83C82F8866CA0949AB8B3
+#. SourceLocation:	/Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_10.Text
+#: /Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_10.Text
+msgctxt ",9BDFEE1B40B83C82F8866CA0949AB8B3"
+msgid "Zach"
+msgstr "1"
+
+#. Key:	D8F71FEC4CE7927369B9D997991B415B
+#. SourceLocation:	/Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_11.Text
+#: /Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_11.Text
+msgctxt ",D8F71FEC4CE7927369B9D997991B415B"
+msgid "Miguel"
+msgstr "1"
+
+#. Key:	F0818DCF448B94308B2167825D9EEC89
+#. SourceLocation:	/Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_112.Text
+#: /Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_112.Text
+msgctxt ",F0818DCF448B94308B2167825D9EEC89"
+msgid "Resolution"
+msgstr "1"
+
+#. Key:	67749462413352B021ACB19B177FA573
+#. SourceLocation:	/Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_12.Text
+#: /Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_12.Text
+msgctxt ",67749462413352B021ACB19B177FA573"
+msgid "Progammers"
+msgstr "1"
+
+#. Key:	8DF1F68D4612AA727AD24F92B04425FB
+#. SourceLocation:	/Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_13.Text
+#: /Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_13.Text
+msgctxt ",8DF1F68D4612AA727AD24F92B04425FB"
+msgid "Level Designers"
+msgstr "1"
+
+#. Key:	AB879ED842613CC8080BA49022EC4F85
+#. SourceLocation:	/Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_14.Text
+#: /Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_14.Text
+msgctxt ",AB879ED842613CC8080BA49022EC4F85"
+msgid "Artists"
+msgstr "1"
+
+#. Key:	8A7C7A504FC24819FC37E482FD18CC22
+#. SourceLocation:	/Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_1427.Text
+#: /Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_1427.Text
+msgctxt ",8A7C7A504FC24819FC37E482FD18CC22"
+msgid "Corinne"
+msgstr "1"
+
+#. Key:	712731084729FAF92BD1D09FE5112300
+#. SourceLocation:	/Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_15.Text
+#: /Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_15.Text
+msgctxt ",712731084729FAF92BD1D09FE5112300"
+msgid "Lilian"
+msgstr "1"
+
+#. Key:	CA1E9D314053B0A7E692CEB6A3F8D340
+#. SourceLocation:	/Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_1576.Text
+#: /Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_1576.Text
+msgctxt ",CA1E9D314053B0A7E692CEB6A3F8D340"
+msgid "Josh"
+msgstr "1"
+
+#. Key:	CE1C0D2B4AFE0DA129E9488D07EA76CB
+#. SourceLocation:	/Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_16.Text
+#: /Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_16.Text
+msgctxt ",CE1C0D2B4AFE0DA129E9488D07EA76CB"
+msgid "Jacob"
+msgstr "1"
+
+#. Key:	9C9845EF4BC0DB301A33DDB4F3FC8A36
+#. SourceLocation:	/Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_17.Text
+#: /Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_17.Text
+msgctxt ",9C9845EF4BC0DB301A33DDB4F3FC8A36"
+msgid "Mitchell"
+msgstr "1"
+
+#. Key:	D70499AA49C11955CD1A92BF1B7FB7C9
+#. SourceLocation:	/Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_1772.Text
+#: /Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_1772.Text
+msgctxt ",D70499AA49C11955CD1A92BF1B7FB7C9"
+msgid "Steph"
+msgstr "1"
+
+#. Key:	BCA37FFB487A231957908DB1A9C54CA9
+#. SourceLocation:	/Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_18.Text
+#: /Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_18.Text
+msgctxt ",BCA37FFB487A231957908DB1A9C54CA9"
+msgid "Sze"
+msgstr "1"
+
+#. Key:	TextBlockDefaultValue
+#. SourceLocation:	/Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_1881.Text
+#: /Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_1881.Text
+msgctxt "UMG,TextBlockDefaultValue"
+msgid "Text Block"
+msgstr "1"
+
+#. Key:	E802F8AC4560ADF8B1A55E985FCDEC79
+#. SourceLocation:	/Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_19.Text
+#: /Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_19.Text
+msgctxt ",E802F8AC4560ADF8B1A55E985FCDEC79"
+msgid "Andres"
+msgstr "1"
+
+#. Key:	C60846C44E584BD4C644AD960320ABAB
+#. SourceLocation:	/Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_2.Text
+#: /Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_2.Text
+msgctxt ",C60846C44E584BD4C644AD960320ABAB"
+msgid "Quit"
+msgstr "1"
+
+#. Key:	7AAE492F49E38C56CD5EC6A929AF0167
+#. SourceLocation:	/Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_20.Text
+#: /Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_20.Text
+msgctxt ",7AAE492F49E38C56CD5EC6A929AF0167"
+msgid "GAME"
+msgstr "1"
+
+#. Key:	4ED96E7F40300879C4A6EC9A725EE794
+#. SourceLocation:	/Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_203.Text
+#: /Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_203.Text
+msgctxt ",4ED96E7F40300879C4A6EC9A725EE794"
+msgid "Game"
+msgstr "1"
+
+#. Key:	61098F5E4C4A8E37ADF3D4A0C5C9B92E
+#. SourceLocation:	/Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_23.Text
+#: /Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_23.Text
+msgctxt ",61098F5E4C4A8E37ADF3D4A0C5C9B92E"
+msgid "Master Volume"
+msgstr "1"
+
+#. Key:	40F8C4B9494CBB9BB888B58E1F3B9397
+#. SourceLocation:	/Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_24.Text
+#: /Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_24.Text
+msgctxt ",40F8C4B9494CBB9BB888B58E1F3B9397"
+msgid "Music Volume"
+msgstr "1"
+
+#. Key:	E278098D45F6AFFCEE8528A959A3D57A
+#. SourceLocation:	/Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_25.Text
+#: /Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_25.Text
+msgctxt ",E278098D45F6AFFCEE8528A959A3D57A"
+msgid "SFX Volume"
+msgstr "1"
+
+#. Key:	CB48D8D141B9DEDA2482519EE6717AC9
+#. SourceLocation:	/Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_3.Text
+#: /Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_3.Text
+msgctxt ",CB48D8D141B9DEDA2482519EE6717AC9"
+msgid "Language"
+msgstr "1"
+
+#. Key:	7A21F2064541DD1B3C93F48D7DA6B24B
+#. SourceLocation:	/Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_303.Text
+#: /Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_303.Text
+msgctxt ",7A21F2064541DD1B3C93F48D7DA6B24B"
+msgid "Audio"
+msgstr "1"
+
+#. Key:	2BC5939D47994BAD17C600BFFDD02DB8
+#. SourceLocation:	/Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_4.Text
+#: /Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_4.Text
+msgctxt ",2BC5939D47994BAD17C600BFFDD02DB8"
+msgid "Matthew"
+msgstr "1"
+
+#. Key:	1266EE2E4FA703CE26B9F5A7B8073A41
+#. SourceLocation:	/Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_420.Text
+#: /Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_420.Text
+msgctxt ",1266EE2E4FA703CE26B9F5A7B8073A41"
+msgid "Controls"
+msgstr "1"
+
+#. Key:	31D9084D4B3C8DD6718E939BDF5BB185
+#. SourceLocation:	/Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_578.Text
+#: /Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_578.Text
+msgctxt ",31D9084D4B3C8DD6718E939BDF5BB185"
+msgid "Creative Director"
+msgstr "1"
+
+#. Key:	A8F62568453B20FA4ABAADA8AB169DE6
+#. SourceLocation:	/Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_683.Text
+#: /Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_683.Text
+msgctxt ",A8F62568453B20FA4ABAADA8AB169DE6"
+msgid "Producer"
+msgstr "1"
+
+#. Key:	7AB83A674502F31B0537D2BEB6E8DE30
+#. SourceLocation:	/Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_7.Text
+#: /Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_7.Text
+msgctxt ",7AB83A674502F31B0537D2BEB6E8DE30"
+msgid "Kim"
+msgstr "1"
+
+#. Key:	1B6669464A5CFC62DC1941AC1DAC51EE
+#. SourceLocation:	/Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_728.Text
+#: /Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_728.Text
+msgctxt ",1B6669464A5CFC62DC1941AC1DAC51EE"
+msgid "Lead Progammer"
+msgstr "1"
+
+#. Key:	3F278C7F47457AD7931B7F94B9331E43
+#. SourceLocation:	/Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_8.Text
+#: /Game/Blueprints_UI/bp_MainMenu.bp_MainMenu_C:WidgetTree.TextBlock_8.Text
+msgctxt ",3F278C7F47457AD7931B7F94B9331E43"
+msgid "Fullscreen Mode"
+msgstr "1"
+
+#. Key:	5C4867B64D435329D046C9B4FD8E27DF
+#. SourceLocation:	/Game/Characters/Mannequins/Materials/M_Mannequin.M_Mannequin:MaterialExpressionTextureSampleParameter2D_1.ChannelNames.B
+#: /Game/Characters/Mannequins/Materials/M_Mannequin.M_Mannequin:MaterialExpressionTextureSampleParameter2D_1.ChannelNames.B
+msgctxt ",5C4867B64D435329D046C9B4FD8E27DF"
+msgid "AO"
+msgstr "1"
+
+#. Key:	6708F7224359A743C07A28B8B7A91F48
+#. SourceLocation:	/Game/Characters/Mannequins/Materials/M_Mannequin.M_Mannequin:MaterialExpressionTextureSampleParameter2D_1.ChannelNames.G
+#: /Game/Characters/Mannequins/Materials/M_Mannequin.M_Mannequin:MaterialExpressionTextureSampleParameter2D_1.ChannelNames.G
+msgctxt ",6708F7224359A743C07A28B8B7A91F48"
+msgid "Roughness"
+msgstr "1"
+
+#. Key:	A20090BE4DDF8C3848C7DEB7E0F81934
+#. SourceLocation:	/Game/Characters/Mannequins/Materials/M_Mannequin.M_Mannequin:MaterialExpressionTextureSampleParameter2D_1.ChannelNames.R
+#: /Game/Characters/Mannequins/Materials/M_Mannequin.M_Mannequin:MaterialExpressionTextureSampleParameter2D_1.ChannelNames.R
+msgctxt ",A20090BE4DDF8C3848C7DEB7E0F81934"
+msgid "Metallic"
+msgstr "1"
+
