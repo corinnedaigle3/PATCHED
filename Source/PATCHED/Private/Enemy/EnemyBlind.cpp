@@ -3,3 +3,6 @@
 
 #include "Enemy/EnemyBlind.h"
 
+AEnemyBlind::AEnemyBlind()
+{
+}
