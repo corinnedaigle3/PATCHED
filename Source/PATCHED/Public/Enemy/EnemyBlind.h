@@ -13,5 +13,13 @@ UCLASS()
 class PATCHED_API AEnemyBlind : public AEnemy
 {
 	GENERATED_BODY()
+
+public: 
+	AEnemyBlind();
+
+protected:
+
+private:
+
 	
 };
