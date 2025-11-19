@@ -1,8 +1,18 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{89B292C6-43FF-D1B4-7CF0-97B4A1048F98}",
+	"EngineAssociation": "{EEA9D7E4-4800-189D-6E3D-1C83E0C99A2B}",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "PATCHED",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
