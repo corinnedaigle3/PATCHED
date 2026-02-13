@@ -1,0 +1,90 @@
+[
+	{
+		"file": "C:\\Users\\gavin\\Documents\\GitHub\\PATCHED\\Source\\PATCHED\\InitalClass.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gavin\\Documents\\GitHub\\PATCHED\\.vscode\\compileCommands_Default\\PATCHED.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gavin\\Documents\\GitHub\\PATCHED\\Source\\PATCHED\\InitalClass.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gavin\\Documents\\GitHub\\PATCHED\\.vscode\\compileCommands_Default\\PATCHED.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gavin\\Documents\\GitHub\\PATCHED\\Source\\PATCHED\\MyCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gavin\\Documents\\GitHub\\PATCHED\\.vscode\\compileCommands_Default\\PATCHED.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gavin\\Documents\\GitHub\\PATCHED\\Source\\PATCHED\\MyCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gavin\\Documents\\GitHub\\PATCHED\\.vscode\\compileCommands_Default\\PATCHED.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gavin\\Documents\\GitHub\\PATCHED\\Source\\PATCHED\\PATCHED.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gavin\\Documents\\GitHub\\PATCHED\\.vscode\\compileCommands_Default\\PATCHED.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gavin\\Documents\\GitHub\\PATCHED\\Source\\PATCHED\\PATCHED.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gavin\\Documents\\GitHub\\PATCHED\\.vscode\\compileCommands_Default\\PATCHED.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gavin\\Documents\\GitHub\\PATCHED\\Source\\PATCHED\\PATCHED.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gavin\\Documents\\GitHub\\PATCHED\\.vscode\\compileCommands_Default\\PATCHED.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gavin\\Documents\\GitHub\\PATCHED\\Source\\PATCHED\\Private\\Enemy\\Enemy.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gavin\\Documents\\GitHub\\PATCHED\\.vscode\\compileCommands_Default\\PATCHED.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gavin\\Documents\\GitHub\\PATCHED\\Source\\PATCHED\\Private\\Enemy\\EnemyBlind.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gavin\\Documents\\GitHub\\PATCHED\\.vscode\\compileCommands_Default\\PATCHED.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gavin\\Documents\\GitHub\\PATCHED\\Source\\PATCHED\\Public\\Enemy\\Enemy.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gavin\\Documents\\GitHub\\PATCHED\\.vscode\\compileCommands_Default\\PATCHED.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\gavin\\Documents\\GitHub\\PATCHED\\Source\\PATCHED\\Public\\Enemy\\EnemyBlind.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\gavin\\Documents\\GitHub\\PATCHED\\.vscode\\compileCommands_Default\\PATCHED.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	}
+]
